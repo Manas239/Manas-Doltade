@@ -7,37 +7,41 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manas-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Website](https://img.shields.io/badge/Website-Portfolio-4ABDF7?style=for-the-badge&logo=google-chrome)](https://your-portfolio.example)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-4ABDF7?style=for-the-badge&logo=google-chrome)](https://your-portfolio.example)
 [![Email](https://img.shields.io/badge/Email-manas%40example.com-D14836?style=for-the-badge&logo=gmail)](mailto:manas@example.com)
 
 ---
 
 ## About Me
-I'm a Full‑Stack Engineer building reliable, user-focused web applications. I enjoy improving developer workflows, shipping well-tested features, and mentoring junior developers.
+I'm a **Data Analyst and aspiring Data Scientist** passionate about building intelligent systems using data, machine learning, and AI. I enjoy turning real-world problems into practical, impactful tech solutions.
 
-- 🔭 Currently: building Product X at Company Y
-- 🌱 Learning: Rust | Distributed Systems
-- 💬 Ask me about: TypeScript, React, Node.js, test automation
-- ⚡ Fun: Coffee-fueled weekend projects, mentoring, and tackling algorithm puzzles
+- 🔭 Currently: working on AI/ML projects and improving my Data Science skills  
+- 🌱 Learning: Machine Learning, Deep Learning, and DSA for placements  
+- 💬 Ask me about: Python, SQL, ML models, CNNs, and data analysis  
+- ⚡ Fun: Building side projects, experimenting with AI tools, and writing tech content  
 
 ---
 
 ## Featured Projects
-- [Project One](https://github.com/YOUR_USERNAME/project-one) — Short description of impact or tech (e.g., "Real-time dashboard used by 1k+ users").
-- [Project Two](https://github.com/YOUR_USERNAME/project-two) — Short description (e.g., "CLI tool that saves developers 30% of debug time").
-- [Project Three](https://github.com/YOUR_USERNAME/project-three) — Short description (e.g., "Library for X used in Y products").
+- [Deepfake Image Detector](https://github.com/Manas239) — CNN-based system to classify real vs fake images.
+- [Blood Bank Management System](https://github.com/Manas239) — Full-stack web app using Node.js, Express, and SQLite.
+- [House Price Prediction](https://github.com/Manas239) — Regression-based ML model for real estate price prediction.
+- [Habit Tracker Web App](https://github.com/Manas239) — Productivity-focused habit tracking system with analytics.
 
-Tip: pin the 3–6 most relevant repos on your profile to surface these.
+*(Pin these repositories on your profile for better visibility.)*
 
 ---
 
 ## Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
@@ -47,10 +51,10 @@ Tip: pin the 3–6 most relevant repos on your profile to surface these.
 ---
 
 ## Get in touch
-- Email: manas@example.com
-- Twitter/X: [@YOUR_HANDLE](https://twitter.com/YOUR_HANDLE)
-- Portfolio: https://your-portfolio.example
+- Email: manas@example.com  
+- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/  
+- Portfolio: https://your-portfolio.example  
 
 ---
 
-Thanks for visiting — if you'd like help customizing links, project descriptions, or the tone I can update it further.
+Thanks for visiting — feel free to explore my repositories or connect with me 🙂
